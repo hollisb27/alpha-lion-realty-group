@@ -7,25 +7,24 @@
         <language>en-us</language>
 
         <item>
-            <title>Closing &amp; Title Costs</title>
+            <title>Closing & Title Costs</title>
             <link>https://kvcore.exprealty.com/web-idx/blog/closing-title-costs</link>
             <description>Learn about closing and title costs in real estate transactions.</description>
-            <pubDate>Sat, 02 Mar 2025 12:00:00 GMT</pubDate>
+            <pubDate>Sat, 02 Mar 2025 10:00:00 GMT</pubDate> <!-- Changed time -->
         </item>
 
         <item>
             <title>Creative Financing</title>
             <link>https://kvcore.exprealty.com/web-idx/blog/creative-financing</link>
             <description>Explore different creative financing options for home buyers.</description>
-            <pubDate>Fri, 01 Mar 2025 12:00:00 GMT</pubDate>
+            <pubDate>Fri, 01 Mar 2025 14:30:00 GMT</pubDate> <!-- Changed time -->
         </item>
 
         <item>
             <title>Considering Offers</title>
             <link>https://kvcore.exprealty.com/web-idx/blog/considering-offers</link>
             <description>How to evaluate and accept the best offers when selling a home.</description>
-            <pubDate>Thu, 29 Feb 2025 12:00:00 GMT</pubDate>
+            <pubDate>Thu, 29 Feb 2025 18:15:00 GMT</pubDate> <!-- Changed time -->
         </item>
-
     </channel>
 </rss>
